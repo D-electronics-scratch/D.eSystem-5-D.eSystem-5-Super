@@ -1,4 +1,4 @@
-🚀 Introducing D.eSystem 5 — 5th Generation
+ Introducing D.eSystem 5 — 5th Generation
 The all‑new D.eSystem 5 is here — faster, cleaner, more powerful than any D.eSystem before it.
 It is the first D.eSystem ever written in C, featuring a completely redesigned architecture and the fastest performance in the entire D.eSystem lineup.
 Highlights:
